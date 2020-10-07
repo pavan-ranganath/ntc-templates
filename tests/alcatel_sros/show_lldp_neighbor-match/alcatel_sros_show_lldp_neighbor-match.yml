@@ -1,0 +1,14 @@
+---
+parsed_sample:
+  - local_interface: "Et1"
+    scope: "NB"
+    neighbor_chassis_id: "aa:bb:cc:dd:ee:ff"
+    index: "1"
+    neighbor_interface: "Ethernet1"
+    neighbor: "localhost"
+  - local_interface: "Et2"
+    scope: "AB"
+    neighbor_chassis_id: "aa:bb:cc:dd:ee:ff"
+    index: "2"
+    neighbor_interface: "Ethernet3"
+    neighbor: "hostname"
